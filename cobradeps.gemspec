@@ -33,7 +33,8 @@ DOC
 
   spec.add_dependency 'ruby-graphviz'
 
-  spec.add_development_dependency 'bundler', '~> 1.5'
+  spec.add_development_dependency 'bundler', '~> 2.0'
   spec.add_development_dependency 'rake'
   spec.add_development_dependency 'rspec'
+  spec.add_development_dependency 'pry'
 end
